@@ -34,9 +34,7 @@ Approach using techinques such as Data Understanding - Getting insight on the da
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by Lending club case study
-- References 
+- This project was done as part of EDA casestudy in MS program.
 
 ## Contact
 Created by [@jayadeepanraj] - feel free to contact me!
